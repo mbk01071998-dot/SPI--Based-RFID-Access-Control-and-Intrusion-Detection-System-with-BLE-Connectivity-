@@ -147,6 +147,10 @@ The system sends the following notifications to the smartphone through BLE:
 * Integrate cloud-based security monitoring.
 * Add additional security sensors.
 
+## Project Demo
+[Watch Project Demo on You Tube]
+https://youtube.com/shorts/IuRDZ2gRIuM?si=yo4rXm8XuHtOI19P
+
 ## 👨‍💻 Author
 
 **Bala Krishnan M.**
